@@ -1,4 +1,4 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=74C365&center=true&vCenter=true&width=600&lines=Danny+Benish;)
 
 <!--
 **dannyb33/dannyb33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
