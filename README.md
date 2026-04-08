@@ -1,16 +1,43 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=74C365&center=true&vCenter=true&width=600&lines=Danny+Benish;)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=1500&color=000000&background=C1FE04&width=700&lines=%24+whoami;Danny+Benish;" />
+</p>
 
-<!--
-**dannyb33/dannyb33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre style="font-family:monospace; line-height:1.6;">
 
-Here are some ideas to get you started:
+$ cat skills.txt
+  > Languages
+    > Java
+    > Python
+    > Rust
+    > TypeScript
+    > C++
+  
+  > Frameworks
+    > React
+    > Next.js
+    > Pandas
+    > NumPy
+  
+  > Tools
+    > AWS Services
+    > Docker
+    > Database Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ls projects/
+  > ego_v1/
+    > Cloud-based social media app built with TypeScript with AWS Services.
+    > Includes authentication, image storage, and profile customization
+  
+  > EnergyPackage/
+    > Python package for simulating bitstring-based spin configurations.
+    > Supports both exact and Monte Carlo simulation methods to compute average physical quantities.
+  
+  > StopDropNRoll/
+    > 24hr hackathon game to simulate fire safety drills.
+    > Mobile game built in React Native that uses device motion sensors.
+
+$ cat future_projects.txt
+  > Game engine built from ground-up with OpenGL and C++
+  > Custom server to host personal portfolio
+
+</pre>
