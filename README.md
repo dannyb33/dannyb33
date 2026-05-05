@@ -37,6 +37,7 @@ $ ls projects/
     > Mobile game built in React Native that uses device motion sensors.
 
 $ cat future_projects.txt
+  > Rust audio analysis package (In progress!)
   > Game engine built from ground-up with OpenGL and C++
   > Custom server to host personal portfolio
 
