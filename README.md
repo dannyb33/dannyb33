@@ -21,9 +21,14 @@ $ cat skills.txt
   > Tools
     > AWS Services
     > Docker
+    > Kubernetes
     > Database Management
 
 $ ls projects/
+  > Policy-Safe-Prompt-Library/
+    > Package for validating and templating LLM prompts for use in internal models
+    > Features CLI and GUI to interact with the system hosted with Kubernetes
+  
   > ego_v1/
     > Cloud-based social media app built with TypeScript with AWS Services.
     > Includes authentication, image storage, and profile customization
